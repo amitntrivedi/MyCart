@@ -2,7 +2,7 @@
 
 This is a basic version of shopping cart app. User should be able add, edit, delete product. Add product to cart and create an order. 
 
-This app is built using expo. 
+This app is built using React Native, Firebase, Redux, Expo. 
 
 If you want to set this app all you want to do is create an firebase account and make your firbase api key ready Once all this is ready create .env file in your root folder and replace the data as mentioned below. 
 
